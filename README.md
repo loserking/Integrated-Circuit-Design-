@@ -1,1 +1,2 @@
-# Integrated-Circuit-Design-
+# Integrated-Circuit-Design
+Integrated circuits put complicated circuitry on a miniature-scale die. They form an essential ingredient in popular computer, communications, and consumer products. This course will elaborate on the introduction of the logic and layout design of digital integrated circuits. There will be accompanying homework assignments focusing on hands-on design tool experiences, which complement the textbook and class notes. 
